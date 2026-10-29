@@ -1,0 +1,11 @@
+Package: com.axs.youyoutoolbox
+Name: 优优工具箱
+Version: 5.2.0
+Architecture: iphoneos-arm
+Description: 常用小工具集合
+Maintainer: Axs
+Author: Axs
+Section: Axs-Tweaks
+Depends: mobilesubstrate, preferenceloader
+Icon: https://axs66.github.io/pro/icon/youyoutoolbox.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/youyoutoolbox/js.json
