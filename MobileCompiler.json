@@ -1,0 +1,27 @@
+{
+  "name" : "YouYouToolbox",
+  "packageSchemes" : [
+    "rootless",
+    "rootful"
+  ],
+  "libraries" : [
+
+  ],
+  "exportDylib" : true,
+  "productName" : "YouYouToolbox",
+  "frameworks" : [
+    "Foundation",
+    "UIKit"
+  ],
+  "package" : true,
+  "sources" : [
+    "Tweak.m"
+  ],
+  "optimization" : "release-speed",
+  "defines" : [
+
+  ],
+  "includeDirectories" : [
+
+  ]
+}

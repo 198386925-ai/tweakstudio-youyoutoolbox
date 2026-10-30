@@ -1,0 +1,14 @@
+
+# Dylix generated build / local state
+.theos/
+.build/
+build/
+Build-*/
+DerivedData/
+packages/
+*.o
+*.deb
+*.dylib
+.DS_Store
+.studio-*
+.package-link-cache/
